@@ -1,4 +1,4 @@
-# CSE7850/CX4803 Machine Learning in Computational Biology
+# CSE7850 Machine Learning in Computational Biology
 
 ## Instructor Information
 - **Instructor:** Yunan Luo
