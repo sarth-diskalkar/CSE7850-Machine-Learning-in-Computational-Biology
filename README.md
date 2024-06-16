@@ -13,15 +13,13 @@ This course is appropriate for graduate students or advanced undergraduate stude
 ## Repository Structure
 The repository contains the following directories and files:
 
-### Homework
-- **HW-1**
-  - **HW1-Code-Solution**
+### [Homework](./Homework)
+- **[HW-1](./Homework/HW-1)**
     - `hw1_reg.ipynb`: Jupyter notebook for HW1 regression task.
     - `hw1_torch_intro.ipynb`: Jupyter notebook for HW1 PyTorch introduction.
   - `HW1-PDF-Solution.pdf`: PDF solution for HW1.
 
-- **HW-2**
-  - **HW2-Code-Solution**
+- **[HW-2](./Homework/HW-2)**
     - `cnn.pth`: PyTorch model weights for CNN.
     - `hw2_clf.ipynb`: Jupyter notebook for HW2 classification task.
     - `hw2_nn.ipynb`: Jupyter notebook for HW2 neural network task.
@@ -30,8 +28,7 @@ The repository contains the following directories and files:
   - `HW2-PDF-Solution.pdf`: PDF solution for HW2.
   - `HW2-PDF.pdf`: Additional PDF for HW2.
 
-- **HW-3**
-  - **HW3-Code-Solution**
+- **[HW-3](./Homework/HW-3)**
     - `graph_gcn.pth`: PyTorch model weights for GCN.
     - `graph_gnn.pth`: PyTorch model weights for GNN.
     - `hw3_VAE.ipynb`: Jupyter notebook for HW3 VAE task.
@@ -40,11 +37,11 @@ The repository contains the following directories and files:
   - `HW3-PDF-Solution.pdf`: PDF solution for HW3.
   - `HW3-PDF.pdf`: Additional PDF for HW3.
 
-### Course Materials
+### [Course Materials](./)
 - `MLCB Course Syllabus S24.pdf`: Course syllabus for Spring 2024.
 - `MLCB Schedule S24.pdf`: Course schedule for Spring 2024.
 
-### Slides
+### [Slides](./Slides)
 - `Lec01-Introduction.pdf`: Lecture 01 - Introduction.
 - `Lec02-Molecular biology.pdf`: Lecture 02 - Molecular biology.
 - `Lec03-Sequence alignment I.pdf`: Lecture 03 - Sequence alignment I.
@@ -74,3 +71,7 @@ To get started with this repository:
 1. Clone the repository:
    ```bash
    git clone https://github.com/sarth-diskalkar/CSE7850-Machine-Learning-in-Computational-Biology.git
+
+
+Feel free to copy this updated README and modify it as necessary for your repository. Let me know if any adjustments should be made. Thanks!
+
