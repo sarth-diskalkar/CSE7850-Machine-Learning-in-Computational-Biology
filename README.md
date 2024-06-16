@@ -73,5 +73,5 @@ To get started with this repository:
    git clone https://github.com/sarth-diskalkar/CSE7850-Machine-Learning-in-Computational-Biology.git
 
 
-Feel free to copy this updated README and modify it as necessary for your repository. Let me know if any adjustments should be made. Thanks!
+Feel free to copy this updated README and modify it as necessary for your repository. Let me know if any adjustments should be made. Feel free to check out my other repos as well!
 
