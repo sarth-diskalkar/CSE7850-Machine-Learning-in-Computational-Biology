@@ -3,7 +3,6 @@
 ## Instructor Information
 - **Instructor:** Yunan Luo
 - **Email:** yunan@gatech.edu
-- **Office Hours:** Mon, 2:00-3:00 PM on Zoom (Book a slot on Canvas)
 
 ## General Information
 ### Description
