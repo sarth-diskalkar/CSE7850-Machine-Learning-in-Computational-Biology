@@ -42,29 +42,29 @@ The repository contains the following directories and files:
 - `MLCB Schedule S24.pdf`: Course schedule for Spring 2024.
 
 ### [Slides](./Slides)
-- `Lec01-Introduction.pdf`: Lecture 01 - Introduction.
-- `Lec02-Molecular biology.pdf`: Lecture 02 - Molecular biology.
-- `Lec03-Sequence alignment I.pdf`: Lecture 03 - Sequence alignment I.
-- `Lec04-Sequence alignment II.pdf`: Lecture 04 - Sequence alignment II.
-- `Lec05-Regression.pdf`: Lecture 05 - Regression.
-- `Lec06-Classification+Applied ML toolbox.pdf`: Lecture 06 - Classification and Applied ML toolbox.
-- `Lec07-Neural networks.pdf`: Lecture 07 - Neural networks.
-- `Lec08-Deep learning.pdf`: Lecture 08 - Deep learning.
-- `Lec09-Deep learning for sequence data.pdf`: Lecture 09 - Deep learning for sequence data.
-- `Lec10-Large language models (LLMs).pdf`: Lecture 10 - Large language models (LLMs).
-- `Lec11-Unsupervised learning.pdf`: Lecture 11 - Unsupervised learning.
-- `Lec12_Generative AI.pdf`: Lecture 12 - Generative AI.
-- `Lec13-Learning from network data.pdf`: Lecture 13 - Learning from network data.
-- `Lec14-Graph neural networks.pdf`: Lecture 14 - Graph neural networks.
-- `Lec15-Learning from structure data.pdf`: Lecture 15 - Learning from structure data.
-- `Lec16-Protein language models.pdf`: Lecture 16 - Protein language models.
-- `Lec17-Variant effect prediction.pdf`: Lecture 17 - Variant effect prediction.
-- `Lec18-Protein function prediction.pdf`: Lecture 18 - Protein function prediction.
-- `Lec19-Protein structure prediction.pdf`: Lecture 19 - Protein structure prediction.
-- `Lec20-GNN for molecular structure.pdf`: Lecture 20 - GNN for molecular structure.
-- `Lec21-Programmable protein design.pdf`: Lecture 21 - Programmable protein design.
-- `Lec22-ML for bioimaging.pdf`: Lecture 22 - ML for bioimaging.
-- `Lec23-ML for network biology.pdf`: Lecture 23 - ML for network biology.
+- `Lec01-Introduction.pdf`
+- `Lec02-Molecular biology.pdf`
+- `Lec03-Sequence alignment I.pdf`
+- `Lec04-Sequence alignment II.pdf`
+- `Lec05-Regression.pdf`
+- `Lec06-Classification+Applied ML toolbox.pdf`
+- `Lec07-Neural networks.pdf`
+- `Lec08-Deep learning.pdf`
+- `Lec09-Deep learning for sequence data.pdf`
+- `Lec10-Large language models (LLMs).pdf`
+- `Lec11-Unsupervised learning.pdf`
+- `Lec12_Generative AI.pdf`
+- `Lec13-Learning from network data.pdf`
+- `Lec14-Graph neural networks.pdf`
+- `Lec15-Learning from structure data.pdf`
+- `Lec16-Protein language models.pdf`
+- `Lec17-Variant effect prediction.pdf`
+- `Lec18-Protein function prediction.pdf`
+- `Lec19-Protein structure prediction.pdf`
+- `Lec20-GNN for molecular structure.pdf`
+- `Lec21-Programmable protein design.pdf`
+- `Lec22-ML for bioimaging.pdf`
+- `Lec23-ML for network biology.pdf`
 
 ## Getting Started
 To get started with this repository:
